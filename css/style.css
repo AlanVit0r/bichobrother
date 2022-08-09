@@ -41,11 +41,8 @@ article {
 
 main {
     max-width: 800px;
-    box-shadow: 3px 3px 8px #000000a6;
     margin: auto;
-    border-radius: 8px;
     padding: 5px 25px;
-    background-color: #f5f5f5;
     font-family: "Raleway", "sans-serif";
     text-align: justify;
     font-weight: 500;
@@ -63,29 +60,18 @@ main h2 {
     font-weight: bold;
 }
 
-main img {
-    width: 30%;
-  
-}
-
 footer {
+    font-size: 18px;
     text-align: center;
     color: #f5f5f5;
     font-size: 10px;
-    height: flex;
+    width: auto;
+    height: 20px;
     margin: auto;
-    margin-top: 8px;
     background-color:#7c7c7c;
     font-family: "Raleway", "sans-serif";
-    padding: 5px 25px;
-    
 }
 
-footer h1 {
-    font-size: 12px;
-
-}
-
-footer a {
-    font-size: 12px;
+footer img {
+    width: 2%;
 }
